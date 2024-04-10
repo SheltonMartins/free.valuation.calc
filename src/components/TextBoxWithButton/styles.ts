@@ -44,8 +44,9 @@ export const StyledBoxButton = styled.button`
     width: 150px;
     height: 50px; 
     padding: 5px;
+    color: black;
     background-color: #00FA9A;
-    font-size: 10px;
+    font-size: 13px;
     font-weight: bold;
     border: none;
     border-top-right-radius: 4px;

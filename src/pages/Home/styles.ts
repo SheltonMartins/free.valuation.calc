@@ -32,6 +32,7 @@ export const StyledHomeSubmit = styled.button`
     width: 50%;
     height: 50px;
     margin: 10px auto;
+    color: black;
     background-color: #00FA9A;
     font-size: 20px;
     border: none;
